@@ -1,0 +1,10 @@
+cargo-features = ["resolver"]
+
+[workspace]
+resolver = "2"
+members = [
+    "test-b"
+]
+exclude = [
+    "test-repo-a",
+]
