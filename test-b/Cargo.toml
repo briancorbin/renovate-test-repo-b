@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 member-a = { path = "../test-repo-a/member-a" }
 member-b = { path = "../test-repo-a/member-b" }
+
+dotenv = "0.14.0"
+retry = "1.3"
