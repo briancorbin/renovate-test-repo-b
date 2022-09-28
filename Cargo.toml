@@ -6,5 +6,5 @@ members = [
     "test-b"
 ]
 exclude = [
-    "test-repo-a",
+    "renovate-test-repo-a",
 ]
